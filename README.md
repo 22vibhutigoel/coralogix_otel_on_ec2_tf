@@ -21,7 +21,7 @@ Yes! Below is a Terraform module that deploys OpenTelemetry Collector on an AWS 
 ✅ Allows customization via module inputs (region, instance type, key pair, Coralogix API key, etc.)
 ```
 
-
+🔴 Update your variables and region name in "variable.tf file"
 
 
 ### 1️⃣ Validate syntax : 
