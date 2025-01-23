@@ -11,7 +11,7 @@ Yes! Below is a Terraform module that deploys OpenTelemetry Collector on an AWS 
 
 
 
-### 🚀 What This Terraform Module Does
+### What This Terraform Module Does
 ```
  Creates an EC2 instance for OpenTelemetry
  Installs OpenTelemetry Collector (otelcol-contrib)
@@ -45,4 +45,4 @@ terraform apply -auto-approve
 ```
 
 
-🚀 Now you can reuse this module in different projects! Let me know if you need modifications.
+Now you can reuse this module in different projects! Let me know if you need modifications.
