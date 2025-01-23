@@ -37,11 +37,12 @@ terraform apply -auto-approve
 
 
 ### ✔ Summary
+```
 ✅ Reusable Terraform Module for OpenTelemetry on EC2
 ✅ Supports sending logs & metrics to Coralogix
 ✅ Ensures correct systemd service & permissions
 ✅ Can be used across multiple environments
-
+```
 
 
 🚀 Now you can reuse this module in different projects! Let me know if you need modifications.
